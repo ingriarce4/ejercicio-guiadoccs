@@ -170,3 +170,32 @@ nav.open ul{
 	visibility: visible;
 	transform: perspective(600px) rotateX(0deg);
 }
+nav.open ul li{
+	color: #fff;
+	font-size: 60px;
+	visibility: visible !important;
+}
+
+nav.header-in {
+	background-color: rgba(217, 40, 130, 0.9);
+}
+
+.solid #toggle .menu {
+	background: #fff;
+}
+.solid #toggle .menu:after{
+	background-color: #fff;
+}
+.solid #toggle .menu:before{
+	background-color: #fff;
+}
+
+/*decia nav.solid#logo .logo, cambiar 'solid' por 'open'*/
+nav.open #logo .logo{
+	background-image: url(../images/huge_white.png);
+	background-size: 150px 150px;
+}
+
+.overflow-hidden{
+	overflow:hidden;
+}
