@@ -192,7 +192,7 @@ nav.header-in {
 
 /*decia nav.solid#logo .logo, cambiar 'solid' por 'open'*/
 nav.open #logo .logo{
-	background-image: url(../images/huge_white.png);
+	background-image: url(../images/huge-white.png);
 	background-size: 150px 150px;
 }
 
