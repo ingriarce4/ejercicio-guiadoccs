@@ -1,3 +1,8 @@
+body {
+    background-color: lightpink;
+}
+
+/*Direct style for nav tag*/
 nav {
 	top: 0;
 	left: 0;
